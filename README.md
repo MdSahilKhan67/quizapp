@@ -1,4 +1,4 @@
 # quizapp
-quiz used  java script html css
+tech stack used  java script html css
 <br><b> timer</b><br> 
 <b>provides score</b>
